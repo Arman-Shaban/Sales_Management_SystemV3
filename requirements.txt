@@ -1,0 +1,2 @@
+# Runtime has no third-party dependencies (sqlite3 and tkinter ship with Python).
+pytest>=8.0
